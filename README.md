@@ -1,18 +1,9 @@
-TypeScript Hello World Demo
+TypeScript Typing Run Block with Sync Async Function Demo
 ===========================
+
+让一个函数同时支持sync与async两种函数callback
 
 ```
 npm install
 npm run demo
 ```
-
-Note:
-
-`esModuleInterop` is recommended to set to `true`,
-since we can have consistent importing syntax with babel,
-always use:
-
-```
-import some from 'some'
-```
-
